@@ -1,0 +1,15 @@
+{
+  "name": "mongoid2int64",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shingos",
+  "license": "MIT",
+  "devDependencies": {
+    "mongodb": "^2.1.19"
+  },
+  "dependencies": {}
+}
